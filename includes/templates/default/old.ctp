@@ -1,0 +1,1 @@
+<?php if ($this->c('Document')->regionExists('left')) $this->c('Document')->getRegion('left')->renderAllBlocks(); ?>
